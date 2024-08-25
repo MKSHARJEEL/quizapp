@@ -1,0 +1,16 @@
+openai
+PyPDF2
+langchain-community
+python-dotenv
+ipykernel 
+pypdf
+streamlit
+sentence-transformers
+langchain-huggingface
+langchain-openai
+google-generativeai 
+langchain_google_genai 
+IPython
+PyMuPDF 
+langchain 
+faiss-cpu
